@@ -1,8 +1,4 @@
-.link-center {
-    color: #178f71;
-    display: inline-block;
-    margin: 0 15px;
-}
+
 
 body {
     margin-top: 20px;
@@ -10,4 +6,12 @@ body {
 }
 .croissant-placement{
     margin: 10px auto;
+}
+footer{
+    text-align: center;
+}
+footer a{
+    margin: 0 10px; 
+       color: #178f71;
+
 }
