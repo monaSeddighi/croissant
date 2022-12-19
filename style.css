@@ -1,0 +1,15 @@
+.link-center {
+    color: #178f71;
+    display: inline-block;
+    margin: 0 15px;
+}
+
+body {
+    margin-top: 20px;
+    background-color: #f8e8a6;
+}
+.croissant-placement{
+    margin: 10px auto;
+}
+.link-alignment{
+    margin: 10px auto;}
